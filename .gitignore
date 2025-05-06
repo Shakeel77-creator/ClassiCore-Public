@@ -1,0 +1,35 @@
+/backend/classifier-service/__pycache__
+/backend/classifier-service/__pycache__
+/backend/classifier-service/utils/__pycache__
+/backend/classifier-service/__pycache__
+backend/classifier-service/__pycache__/unspsc_excel_search.cpython-313.pyc
+backend/classifier-service/__pycache__/unspsc_excel_search.cpython-313.pyc
+*.pyc
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Python environment
+*.env
+.env
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
+data/resources/unspsc_embeddings.pkl
+data/unspsc.db

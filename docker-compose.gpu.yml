@@ -1,0 +1,47 @@
+version: "3.9"
+
+services:
+  classicore-ui:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+    image: classicore-ui:latest
+    container_name: classicore-ui
+    ports:
+      - "3000:80"
+    depends_on:
+      - classicore-backend
+      - classicore-ai
+    networks:
+      - classicore-net
+
+  classicore-backend:
+    build:
+      context: ./springboot-backend/springboot-backend
+      dockerfile: Dockerfile
+    image: classicore-backend:latest
+    container_name: classicore-backend
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+    networks:
+      - classicore-net
+
+  classicore-ai:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: classicore-ai:latest
+    container_name: classicore-ai
+    ports:
+      - "5000:5000"
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    networks:
+      - classicore-net
+
+networks:
+  classicore-net:
+    driver: bridge

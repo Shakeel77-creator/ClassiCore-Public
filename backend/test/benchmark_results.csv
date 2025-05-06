@@ -1,0 +1,41 @@
+Product,Expected,Predicted,Correct,Time (s)
+Pet food bowls equipment,10111304,10111304,True,48.14
+Medicated pet treatments,10111305,10111305,True,9.33
+Live cool water rose bush,10201507,10201507,True,8.91
+Live latin lady rose bush,10202437,10202437,True,9.06
+Organic lima bean purees,50491834,50491834,True,9.41
+Pet food bowls or equipment,10111304,10111304,True,8.49
+Medicated pet treatments,10111305,10111305,True,9.13
+Live cool water rose bush,10201507,10201507,True,7.81
+Live latin lady rose bush,10202437,10202437,True,8.42
+Organic lima bean purees,50491834,50491834,True,8.43
+Pet food bowls or equipment,10111304,10111304,True,8.1
+Medicated pet treatments,10111305,10111305,True,7.84
+Live cool water rose bush,10201507,10201507,True,9.07
+Live latin lady rose bush,10202437,10202437,True,8.66
+Organic lima bean purees,50491834,50491834,True,7.42
+Pet food bowls or equipment,10111304,10111304,True,8.58
+Medicated pet treatments,10111305,10111305,True,8.66
+Live cool water rose bush,10201507,10201507,True,7.98
+Live latin lady rose bush,10202437,10202437,True,8.3
+Organic lima bean purees,50491834,50491834,True,8.04
+Pet food bowls or equipment,10111304,10111304,True,9.75
+Medicated pet treatments,10111305,10111305,True,7.67
+Live cool water rose bush,10201507,10201507,True,8.85
+Live latin lady rose bush,10202437,10202437,True,7.27
+Organic lima bean purees,50491834,50491834,True,8.17
+Pet food bowls or equipment,10111304,10111304,True,11.05
+Medicated pet treatments,10111305,10111305,True,8.03
+Live cool water rose bush,10201507,10201507,True,8.22
+Live latin lady rose bush,10202437,10202437,True,7.11
+Organic lima bean purees,50491834,50491834,True,11.08
+Pet food bowls or equipment,10111304,10111304,True,8.1
+Medicated pet treatments,10111305,10111305,True,8.51
+Live cool water rose bush,10201507,10201507,True,7.69
+Live latin lady rose bush,10202437,10202437,True,8.25
+Organic lima bean purees,50491834,50491834,True,9.63
+Pet food bowls or equipment,10111304,10111304,True,7.97
+Medicated pet treatments,10111305,10111305,True,8.58
+Live cool water rose bush,10201507,10201507,True,8.4
+Live latin lady rose bush,10202437,10202437,True,12.76
+Organic lima bean purees,50491834,50491834,True,7.91

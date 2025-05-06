@@ -1,0 +1,44 @@
+# === Java build files ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# === Maven ===
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/**
+
+# === Eclipse ===
+*.classpath
+*.project
+*.settings/
+.sts4-cache/
+
+# === NetBeans ===
+/nbproject/private/
+/nbbuild/
+/dist/
+/build/
+*.nb-gradle/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Logs and temp ===
+*.log
+logs/
+tmp/
+*.tmp
+*.bak
