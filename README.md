@@ -1,6 +1,3 @@
-
----
-
 <p align="center">
   <img src="ClassiCore-logo.png" alt="ClassiCore Logo" width="300"/>
 </p>
