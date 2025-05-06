@@ -2,6 +2,17 @@
 ---
 
 # 🚀 ClassiCore – AI-Powered UNSPSC Classifier
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Last Commit](https://img.shields.io/github/last-commit/Shakeel77-creator/ClassiCore-Public)](https://github.com/Shakeel77-creator/ClassiCore-Public/commits/master)
+[![Issues](https://img.shields.io/github/issues/Shakeel77-creator/ClassiCore-Public)](https://github.com/Shakeel77-creator/ClassiCore-Public/issues)
+![GitHub stars](https://img.shields.io/github/stars/Shakeel77-creator/ClassiCore-Public?style=social)
+[![Docker Pulls](https://img.shields.io/docker/pulls/shakeel77/classicore-backend?label=classicore-backend)](https://hub.docker.com/r/shakeel77/classicore-backend)
+[![Docker Pulls](https://img.shields.io/docker/pulls/shakeel77/classicore-ai?label=classicore-ai)](https://hub.docker.com/r/shakeel77/classicore-ai)
+[![Docker Pulls](https://img.shields.io/docker/pulls/shakeel77/classicore-ui?label=classicore-ui)](https://hub.docker.com/r/shakeel77/classicore-ui)
+[![AWS Deployment](https://img.shields.io/badge/AWS-Deployment-blue?logo=amazon-aws&style=flat-square)](#step-by-step-deployment-on-aws-ec2-g5-gpu)
+[![EC2 GPU](https://img.shields.io/badge/EC2-GPU-orange?logo=amazon-ec2&style=flat-square)](#step-by-step-deployment-on-aws-ec2-g5-gpu)
+
 
 ClassiCore is an enterprise-ready tool that intelligently classifies product/service descriptions into accurate **UNSPSC codes** using advanced **semantic search** and **AI inference**.
 
@@ -172,5 +183,10 @@ classicore/
 ## 👨‍💻 Contributors
 
 * **Shakeel** – Architect & Full Stack Developer
+[LinkedIn](https://www.linkedin.com/in/shakeel-syed) • [Email](mailto:shakeel.it77@gmail.com) 
+
+Java|Spring Boot|AWS|React|Microservices|CI/CD|Semantic Search|AI Inference  
+A decade of experience scaling cloud platforms & leading global agile teams to boost performance.  
+Passionate about building intelligent systems that bridge AI and enterprise software.
 
 ---
