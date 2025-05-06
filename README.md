@@ -1,7 +1,10 @@
 
 ---
 
-# 🚀 ClassiCore – AI-Powered UNSPSC Classifier
+<p align="center">
+  <img src="ClassiCore-logo.png" alt="ClassiCore Logo" width="300"/>
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![Last Commit](https://img.shields.io/github/last-commit/Shakeel77-creator/ClassiCore-Public)](https://github.com/Shakeel77-creator/ClassiCore-Public/commits/master)
@@ -34,23 +37,23 @@ ClassiCore is an enterprise-ready tool that intelligently classifies product/ser
 ## 🏗️ System Architecture
 
 ```
-                        ┌────────────────────┐
-                        │   React Frontend   │
-                        └────────┬───────────┘
-                                 │
-                                 ▼
-                        ┌────────────────────┐
-                        │  Spring Boot API   │
-                        └────────┬───────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │  FastAPI AI Classifier   │
-                    └────────┬───────────┬─────┘
-                             │           │
-              ┌──────────────┘           └───────────────┐
-              ▼                                          ▼
-       SQLite (UNSPSC Data)                  SentenceTransformer (Embeddings)
+                                                   ┌────────────────────┐
+                                                   │   React Frontend   │
+                                                   └────────┬───────────┘
+                                                            │
+                                                            ▼
+                                                   ┌────────────────────┐
+                                                   │  Spring Boot API   │
+                                                   └────────┬───────────┘
+                                                            │
+                                                            ▼
+                                                ┌──────────────────────────┐
+                                                │  FastAPI AI Classifier   │
+                                                └────────┬───────────┬─────┘
+                                                         │           │
+                                          ┌──────────────┘           └───────────────┐
+                                          ▼                                          ▼
+                                 SQLite (UNSPSC Data)                  SentenceTransformer (Embeddings)
 ```
 
 ---
@@ -185,8 +188,8 @@ classicore/
 * **Shakeel** – Architect & Full Stack Developer
 [LinkedIn](https://www.linkedin.com/in/shakeel-syed) • [Email](mailto:shakeel.it77@gmail.com) 
 
-Java|Spring Boot|AWS|React|Microservices|CI/CD|Semantic Search|AI Inference  
-A decade of experience scaling cloud platforms & leading global agile teams to boost performance.  
-Passionate about building intelligent systems that bridge AI and enterprise software.
+📚Java|Spring Boot|AWS|React|Microservices|CI/CD|Semantic Search|AI Inference  
+🧑‍💻A decade of experience scaling cloud platforms & leading global agile teams to boost performance.  
+💻Passionate about building intelligent systems that bridge AI and enterprise software.
 
 ---
